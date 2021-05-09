@@ -3,6 +3,7 @@
 - 🌱 I’m currently purusing B.Tech in Computer Science
 - 💞️ I’m looking to collaborate on Web Development and App Development
 - 📫 Contact me via <a href="mailto:chordiagagan@gmail.com">e-mail</a>
+- 👦 Do check <a href="https://gagan-gv.github.io">my portfolio</a>
 
 <!---
 gagan-gv/gagan-gv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
