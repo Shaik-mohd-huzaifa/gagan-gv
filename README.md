@@ -5,6 +5,10 @@
 - 📫 Contact me via <a href="mailto:chordiagagan@gmail.com">e-mail</a>
 - 👦 Do check <a href="https://gagan-gv.github.io">my portfolio</a>
 
+```md
+[![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv)](https://github.com/gagan-gv/github-readme-stats)
+```
+
 <!---
 gagan-gv/gagan-gv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
