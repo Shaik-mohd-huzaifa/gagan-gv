@@ -6,7 +6,7 @@
 - 👦 Do check <a href="https://gagan-gv.github.io">my portfolio</a>
 
 
-[![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv)](https://github.com/gagan-gv/github-readme-stats)
+[![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv)]
 
 
 <!---
