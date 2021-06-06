@@ -5,7 +5,8 @@
 - 📫 Contact me via <a href="mailto:chordiagagan@gmail.com">e-mail</a>
 - 👦 Do check <a href="https://gagan-gv.github.io">my portfolio</a>
 
-[![Gagans's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv)](https://github.com/gagan-gv/github-readme-stats)
+![Gagan Chordia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv&show_icons=true&theme=dracula)
+
 
 
 
