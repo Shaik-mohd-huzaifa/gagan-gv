@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @gagan-gv
+<div>
+  <h1 style="text-align:center;">I'm Gagan Chordia</h1>
+  <p style="text-align:center">
+    <a href="https://www.linkedin.com/in/gagan-chordia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://gaganchordia.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://www.behance.net/gaganchordia"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
+  </p>
+</div>
+
 - 👀 I’m interested in Software Engineering, Data Science, UI/UX
 - 🌱 I’m currently purusing B.Tech in Computer Science
 - 🐱‍👤 I’m looking to collaborate on Web Development and UI/UX
