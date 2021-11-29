@@ -3,7 +3,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/gagan-chordia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://gaganchordia.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-    <a href="https://www.behance.net/gaganchordia"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
+    <a href="https://www.behance.net/gaganchordia"><img src="https://img.shields.io/badge/-Behance-005CFF?style=for-the-badge&logo=behance&logoColor=white"></a>
   </p>
 </div>
 
