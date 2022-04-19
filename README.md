@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Python-323232?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -30,8 +31,11 @@
   
   ![Gagan Chordia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv&show_icons=true&theme=dracula)
   
+  ![Gagan Chordia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-gv&layout=compact&theme=dracula)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagan-gv&theme=dracula)](https://git.io/streak-stats)
+  
 </div>
-
 
 <!---
 gagan-gv/gagan-gv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
