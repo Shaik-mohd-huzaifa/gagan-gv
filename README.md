@@ -10,7 +10,7 @@
 - 👀 I’m interested in Software Engineering, Data Science, UI/UX
 - 🌱 I’m currently purusing B.Tech in Computer Science
 - 🐱‍👤 I’m looking to collaborate on Web Development and UI/UX
-- 📫 Contact me via <a href="mailto:chordiagagan@gmail.com">e-mail</a>
+- 📫 Contact me via <a href="mailto:gaganchordia@protonmail.com">e-mail</a>
 - 👦 Do check <a href="https://gagan-gv.github.io">my portfolio</a>
 
 <h3 align="center">Skills</h3>
