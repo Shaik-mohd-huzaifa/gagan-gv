@@ -35,7 +35,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagan-gv&theme=dracula)](https://git.io/streak-stats)
   
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagan-gv)]
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagan-gv)
   
   [![@gagan's Holopin board](https://holopin.io/api/user/board?user=gagan)](https://holopin.io/@gagan)
   
