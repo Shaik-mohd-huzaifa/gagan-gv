@@ -31,11 +31,9 @@
   
   ![Gagan Chordia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-gv&show_icons=true&theme=dracula)
   
-  ![Gagan Chordia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-gv&layout=compact&theme=dracula)
-  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagan-gv&theme=dracula)](https://git.io/streak-stats)
   
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagan-gv)
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=gagan-gv&theme=dracula)
   
   [![@gagan's Holopin board](https://holopin.io/api/user/board?user=gagan)](https://holopin.io/@gagan)
   
